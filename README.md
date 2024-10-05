@@ -20,3 +20,5 @@ Atualmente estou com 19 anos iniciando o estudos para minha carreira de programa
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![Django](    https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Snake animation](https://github.com/VictorSouzaa0/CVictorSouzaa0/blob/output/github-contribution-grid-snake.svg)
