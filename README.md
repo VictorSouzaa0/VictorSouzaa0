@@ -23,4 +23,6 @@ Atualmente estou com 19 anos iniciando o estudos para minha carreira de programa
 
 ![Snake animation](https://github.com/VictorSouzaa0/VictorSouzaa0/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/VictorSouzaa0/VictorSouzaa0/blob/output/github-contribution-grid-snake.gif)
+
 
