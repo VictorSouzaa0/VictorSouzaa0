@@ -1,6 +1,7 @@
 ### About me
 
 I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
+
 [![Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-453aa3322/)
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=victor.r.souzaa05@gmail.com&su=Assunto&body=Mensagem)
