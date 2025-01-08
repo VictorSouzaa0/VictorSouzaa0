@@ -1,4 +1,5 @@
-### About me
+<h2 style="color:#E14E1D;">About me</h2>
+
 
 I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
 
