@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
+  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red&count_private=true)
 </p>
 
 <p align="center">
