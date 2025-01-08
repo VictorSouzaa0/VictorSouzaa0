@@ -36,7 +36,7 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C# Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Icon" />
-  <img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" alt="Django Icon"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original-wordmark.svg" width="50" height="50" alt="Django Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java Icon" />
 </p>
 
