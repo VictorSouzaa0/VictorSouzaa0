@@ -2,6 +2,12 @@
 
 I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
 
+<div align="center">
+  <img width="500px"
+    src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXN6a284djRtY2pmbHB5bnB2eHlhZ2h6djljbmZqbG5penl2MjFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Od6XmbZWLy5jHMBus4/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtvNW53bmV1bDc4OHJ6cHI4Ynpxemh0YnRqOXEybjBna2x2MHhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct6rflNuA53eysRm2L/giphy.webp)"
+  />
+</div>
+
 [![Perfil](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-souza-453aa3322/)
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=victor.r.souzaa05@gmail.com&su=Assunto&body=Mensagem)
