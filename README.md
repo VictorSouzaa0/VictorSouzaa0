@@ -26,9 +26,10 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" height="50" alt="Ubuntu Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="50" height="50" alt="CentOS Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" height="50" alt="Arch Linux Icon" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linuxmint/linuxmint-original.svg" width="50" height="50" alt="Mint Icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/popops/popops-original.svg" width="50" height="50" alt="Pop!_OS Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Debian Icon" />
 </p>
+
 
 
 ### Technologies that I am developing 👨🏾‍💻
