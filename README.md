@@ -11,7 +11,7 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.r.souzaa05@gmail.com&su=Assunto&body=Mensagem" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Envelope_mail_icon_4.svg" width="50" height="50" alt="Email Icon" />
+    <img src="https://img.icons8.com/ios/452/email.png" width="50" height="50" alt="Email Icon" />
   </a>
   <a href="https://www.linkedin.com/in/victor-souza-453aa3322/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Icon" />
