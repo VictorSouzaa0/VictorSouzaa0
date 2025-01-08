@@ -29,7 +29,6 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
 
 ### Technologies that I am developing 👨🏾‍💻
 
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML Icon" />
@@ -40,6 +39,7 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" alt="Django Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java Icon" />
 </p>
+
 
 
 <picture>
