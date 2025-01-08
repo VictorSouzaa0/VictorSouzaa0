@@ -17,17 +17,11 @@
   </a>
 </p>
 
-<p align="center">
-  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
-</p>
+![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
 
-<p align="center">
-  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
-</p>
+![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="center">Operating systems</h3>
 
