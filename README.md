@@ -1,12 +1,11 @@
-<h2 style="color:#E14E1D;">About me</h2>
+<h2 align="center" style="color:#E14E1D;">About me</h2>
 
-
-I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
+<p align="center">
+  I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
+</p>
 
 <div align="center">
-  <img width="500px"
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtvNW53bmV1bDc4OHJ6cHI4Ynpxemh0YnRqOXEybjBna2x2MHhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct6rflNuA53eysRm2L/giphy.webp"
-  />
+  <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtvNW53bmV1bDc4OHJ6cHI4Ynpxemh0YnRqOXEybjBna2x2MHhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct6rflNuA53eysRm2L/giphy.webp" />
 </div>
 
 <p align="center">
@@ -18,16 +17,19 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   </a>
 </p>
 
+<p align="center">
+  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
+</p>
 
+<p align="center">
+  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
+</p>
 
-![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+</p>
 
-![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-            
-### Operating systems
-
+<h3 align="center">Operating systems</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Icon" />
@@ -38,8 +40,7 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Debian Icon" />
 </p>
 
-
-### Technologies that I am developing 👨🏾‍💻
+<h3 align="center">Technologies that I am developing 👨🏾‍💻</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python Icon" />
@@ -52,10 +53,10 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java Icon" />
 </p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake-light.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorSouzaa0/VictorSouzaa0/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
