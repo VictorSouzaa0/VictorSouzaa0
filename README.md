@@ -6,7 +6,7 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=victor.r.souzaa05@gmail.com&su=Assunto&body=Mensagem)
 
-![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=tokyonight)
+![Victor Souza GitHub stats-dark](s://github-readme-stats.vercel.app/api?VictorSouzaa0=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=shadow_red)
 
 ### Operating systems
 
@@ -18,7 +18,6 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
 
 ### Technologies that I am developing 👨🏾‍💻
 
-<img src="data:image/svg+xml;base64,[BASE64_DO_SVG]" width="256" height="256" />
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
