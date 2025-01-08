@@ -18,7 +18,6 @@ I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a dev
 ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
             
 ### Operating systems
 
