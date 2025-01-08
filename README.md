@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#E14E1D;">About me</h2>
+<h2 style="color:#E14E1D; text-align:center;">About me</h2>
 
 <p align="center">
   I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red&count_private=true)
+  ![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
 </p>
 
 <p align="center">
