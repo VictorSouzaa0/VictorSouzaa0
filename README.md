@@ -17,13 +17,19 @@
   </a>
 </p>
 
-![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red" alt="Victor Souza GitHub stats" />
+</div>
 
-![Victor Souza GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9" alt="Victor Souza Most Used Languages" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
+</div>
 
-
+<h3 align="center">Operating systems</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Icon" />
