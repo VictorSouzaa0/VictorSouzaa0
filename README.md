@@ -25,10 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9" alt="Victor Souza Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=VictorSouzaa0&theme=shadow_red&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats" />
-</div>
-
 <h3 align="center">Operating systems</h3>
 
 <p align="center">
