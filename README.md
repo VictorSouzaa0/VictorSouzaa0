@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otaviojava&show_icons=true&theme=shadow_red" alt="Victor Souza GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=shadow_red" alt="Victor Souza GitHub stats"/>
 </div>
 
 <div align="center">
