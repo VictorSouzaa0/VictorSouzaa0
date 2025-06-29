@@ -12,12 +12,14 @@ I’m a driven software developer passionate about creating impactful solutions.
 - JavaScript
 - React
 - Next.js
+- Fastapi
 - Tailwind CSS
 
 **Back-end**
 - Node.js
 - Java
 - C#
+- Python
 
 **Other**
 - Git
@@ -29,6 +31,7 @@ I’m a driven software developer passionate about creating impactful solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/fastapi/fastapi/master/docs/img/logo-margin/logo-teal.png" width="50" height="50" alt="FastAPI Icon" />
   <img src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" width="40" height="40" style="filter: invert(38%) sepia(75%) saturate(1138%) hue-rotate(166deg) brightness(94%) contrast(96%);" alt="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
