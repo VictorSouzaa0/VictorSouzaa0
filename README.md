@@ -1,15 +1,11 @@
 <h2 style="color:#E14E1D; text-align:center;">About me</h2>
 
 <p align="center">
-  I'm Victor Souza, I'm currently 19 years old and I'm starting my career as a developer.
+  I'm Victor Souza, 19 years old, and I'm starting my career as a developer.
 </p>
 
-<div align="center">
-  <img width="500px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamtvNW53bmV1bDc4OHJ6cHI4Ynpxemh0YnRqOXEybjBna2x2MHhhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ct6rflNuA53eysRm2L/giphy.webp" />
-</div>
-
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=victor.r.souzaa05@gmail.com&su=Assunto&body=Mensagem" target="_blank">
+  <a href="mailto:victor.r.souzaa05@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios/452/gmail-new.png" width="50" height="50" alt="Email Icon" />
   </a>
   <a href="https://www.linkedin.com/in/victor-souza-453aa3322/" target="_blank">
@@ -25,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSouzaa0&theme=shadow_red&layout=compact&custom_title=technology's&langs_count=9" alt="Victor Souza Most Used Languages" />
 </div>
 
-<h3 align="center">Operating systems</h3>
+<h3 align="center">Operating Systems</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Icon" />
@@ -45,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C# Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React Icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js Icon" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java Icon" />
 </p>
