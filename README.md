@@ -1,7 +1,7 @@
 <h2 style="color:#E14E1D; text-align:center;">About me</h2>
 
 <p align="center">
-  I'm Victor Souza, 19 years old, and I'm starting my career as a developer.
+  I am a passionate programming student with a strong interest in both technology and motorsports. I am currently working toward becoming a full-stack developer, with the dream of building a career that connects my love for cars and cutting-edge technology.
 </p>
 
 <p align="center">
@@ -46,7 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js Icon" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java Icon" />
 </p>
-
 
 <p align="center">
   <picture>
