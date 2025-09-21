@@ -9,7 +9,8 @@ I'm a **passionate programming student** focused on becoming a **full-stack deve
 - TypeScript  
 - Java  
 - Next JS  
-- English (improving communication skills)  
+- English (improving communication skills)
+- AWS (Amazon Web Services)
 
 ---
 
