@@ -23,7 +23,7 @@ I'm a **passionate programming student** focused on becoming a **full-stack deve
 
 
 ---
-## 💻 Tecnologias e Ferramentas
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,html,css,react,nextjs,tailwind,nodejs,nestjs,django,fastapi,git,aws,postman&theme=dark&perline=9" />
