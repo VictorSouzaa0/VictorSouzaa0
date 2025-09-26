@@ -19,10 +19,7 @@ I'm a **passionate programming student** focused on becoming a **full-stack deve
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,arch,debian&theme=dark" />
 </p>
-<p align="center">
-  <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/-CentOS-262577?style=for-the-badge&logo=centos&logoColor=white" /></a>
-  <a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/-Rocky_Linux-000000?style=for-the-badge&logo=rockylinux&logoColor=white" /></a>
-</p>
+
 
 
 ---
@@ -31,11 +28,6 @@ I'm a **passionate programming student** focused on becoming a **full-stack deve
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,html,css,react,nextjs,tailwind,nodejs,nestjs,django,fastapi,git,aws,postman&theme=dark&perline=9" />
 </p>
-<p align="center">
-  <a href="https://insomnia.rest/"><img src="https://img.shields.io/badge/-Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" /></a>
-  <a href="https://swagger.io/"><img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" /></a>
-</p>
-
 ---
 
 ## 📫 Let's Connect!
