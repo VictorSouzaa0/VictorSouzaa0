@@ -39,7 +39,7 @@ I'm a **passionate programming student** focused on becoming a **full-stack deve
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorSouzaa0&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/VictorSouzaa0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
 </p>
 
 <p align="center">
